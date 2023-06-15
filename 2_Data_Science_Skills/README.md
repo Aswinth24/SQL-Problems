@@ -1,5 +1,13 @@
 # Data Science Skills [LinkedIn SQL Interview Question]
 
+ <br>
+<div align="center"> 
+
+  <h3>Solutions for SQL Challenges hosted on <a href="https://datalemur.com/">DataLemur</a></h3>
+ 
+</div>
+ <br>
+
 # 🌐 Website
 |||
 |---|---|
