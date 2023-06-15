@@ -11,7 +11,7 @@
 # 🌐 Website
 |||
 |---|---|
-|**Link**|**<a href="https://datalemur.com/questions/matching-skills">DataLemur<a>**|
+|**Link**|**<a href="https://datalemur.com/questions/matching-skills">Data Science Skillsr<a>**|
   
 # 🎯 Defficulty Level
   
