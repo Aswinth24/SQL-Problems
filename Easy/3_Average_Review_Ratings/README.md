@@ -1,5 +1,22 @@
-# Average Review Ratings
+# Average Review Ratings [Amazon SQL Interview Question]
 
+  <br>
+<div align="center"> 
+
+  <h3>Solutions for SQL Challenges hosted on <a href="https://datalemur.com/">DataLemur</a></h3>
+ 
+</div>
+ <br>
+ 
+ # 🌐 Challange link
+ |||
+ |---|---|
+ |**Link**|**<a href="https://datalemur.com/questions/sql-avg-review-ratings">Average Review Ratings</a>**|
+ 
+ # 🎯 Defficulty Level
+ 
+<h2> 🟢 Easy </h2>
+ 
 # Description
 
 **Given the reviews table, write a query to retrieve the average star rating for each product,
