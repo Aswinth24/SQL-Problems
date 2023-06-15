@@ -1,7 +1,7 @@
 # SQL-Problems
 
 # Solution Scripts
-**In the below table, the columns indicate the following attributes related to the weekly challenge:**
+**In the below table, the columns indicate the following attributes related to the following tables:**
 
 **- ID : Identity column for individual challenge**<br>
 **- Challenge : Link to the SQL challenge**<br>
