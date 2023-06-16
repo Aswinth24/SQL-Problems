@@ -3,7 +3,7 @@
  <br>
 <div align="center"> 
 
-  <h3>Solutions for SQL Challenges hosted on <a href="https://datalemur.com/">DataLemur</a></h3>
+  <h3>Solutions for this SQL Challenges hosted on <a href="https://datalemur.com/">DataLemur</a></h3>
  
 </div>
  <br>
