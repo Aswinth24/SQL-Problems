@@ -8,7 +8,7 @@
 </div>
  <br>
 
-# 🌐 Website
+# 🌐 Challange link
 |||
 |---|---|
 |**Link**|**<a href="https://datalemur.com/questions/matching-skills">Data Science Skillsr<a>**|
