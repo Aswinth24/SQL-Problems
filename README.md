@@ -1,7 +1,19 @@
-# SQL-Problems
+<div align="center">
+    
+  <h1> SQL-Problems </h1>
+  
+</div>
 
+## Description
 
-# Solution Scripts
+  **The solutions of all the SQL challenges for all easy, medium and hard challenges on varies website like 
+  <a href="https://datalemur.com/sql-interview-questions">DataLemur<a>,
+  <a href="https://www.codingninjas.com/codestudio/problems?category[]=SQL%20Databases">Coding Ninjas</a>, 
+  <a href="https://leetcode.com/problemset/all/?topicSlugs=database&page=1">Leetcode</a>,
+  <a href="https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql">HackerRank</a> 
+  executed on MySQL environment compiled with helpful Resources & references related to the challenges.**
+  
+## Solution Scripts
 
 **In the below table, the columns indicate the following attributes related to the following tables:**
 
@@ -9,7 +21,7 @@
 **- Challenge : Link to the SQL challenge**<br>
 **- Solution Script : Link to the solution SQL script hosted in this repository**<br>
 **- Website Name : Name of the Website**<br>
-# Defficulty Level
+## Defficulty Level
 <h3> Easy </h3>
 
 |||||
