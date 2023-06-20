@@ -1,4 +1,4 @@
-# Page With No Likes [Facebook SQL Interview Question]
+## Page With No Likes [Facebook SQL Interview Question]
 
   <br>
 <div align="center"> 
@@ -8,17 +8,17 @@
 </div>
  <br>
  
-# 🌐 Challange link
+## 🌐 Challange link
 
 |||
 |---|---|
-|**Link**|**<a href="https://datalemur.com/questions/sql-page-with-no-likes">Page With No Likes r<a>**|
+|**Link**|**<a href="https://datalemur.com/questions/sql-page-with-no-likes">Page With No Likes <a>**|
   
-# 🎯 Defficulty Level
+## 🎯 Difficulty Level
   
   <h2> 🟢 Easy </h2>
   
-# Description
+## Description
   
 **Assume you're given the tables below about Facebook Page and Page likes (as in "Like a Facebook Page").
 Write a query to return the IDs of the Facebook pages which do not possess any likes. The output should be sorted in ascending order.**
