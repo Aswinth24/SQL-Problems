@@ -1,4 +1,4 @@
-# Duplicate Emails
+## Duplicate Emails
 
   <br>
 <div align="center">
@@ -8,12 +8,12 @@
 </div>
  <br>
 
-# 🌐 Challange Link
+## 🌐 Challange Link
 
 |||
 |---|---|
 | **Link** | **<a href="https://www.codingninjas.com/codestudio/problems/duplicate-emails_2105465?">Duplicate Emails<a>** |
 
-# 🎯 Defficulty Level
+# 🎯 Difficulty Level
 
-  <h2> 🟢 Easy </h2>
+  <h3> 🟢 Easy </h3>
