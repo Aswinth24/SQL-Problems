@@ -1,4 +1,4 @@
-# Data Science Skills [LinkedIn SQL Interview Question]
+## Data Science Skills [LinkedIn SQL Interview Question]
 
  <br>
 <div align="center"> 
@@ -8,25 +8,25 @@
 </div>
  <br>
 
-# 🌐 Challange link
+## 🌐 Challange link
 |||
 |---|---|
 |**Link**|**<a href="https://datalemur.com/questions/matching-skills">Data Science Skillsr<a>**|
   
-# 🎯 Defficulty Level
+## 🎯 Difficulty Level
   
-<h2> 🟢 Easy </h2>
+<h3> 🟢 Easy </h3>
  
-# Description
+## Description
 
 **Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.
 Write a query to list the candidates who possess all of the required skills for the job. Sort the output by candidate ID in ascending order.**
 
 **Assumption:**
 
-**There are no duplicates in the candidates table.**
+**There are no duplicates in the candidate's table.**
 
-**candidates Table:**
+**Candidates Table:**
 |||
 |---|---|
 |Column Name	|Type|
