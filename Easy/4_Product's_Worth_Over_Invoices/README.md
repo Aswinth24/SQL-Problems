@@ -1,4 +1,4 @@
-# Product's Worth Over Invoices
+## Product's Worth Over Invoices
 
   <br>
 <div align="center">
@@ -8,12 +8,12 @@
 </div>
  <br>
 
-# 🌐 Challange Link
+## 🌐 Challange Link
 
 |||
 |---|---|
 | **Link** | **<a href="https://www.codingninjas.com/codestudio/problems/product-s-worth-over-invoices_2188792">Product's Worth Over Invoices<a>** |
 
-# 🎯 Defficulty Level
+## 🎯 Difficulty Level
 
-  <h2> 🟢 Easy </h2>
+  <h3> 🟢 Easy </h3>
