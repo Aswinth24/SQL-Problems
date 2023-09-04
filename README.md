@@ -27,12 +27,12 @@
 |||||
 |---|---|---|---|
 |**ID**|**Challenge**|**Link**|**Platform**|
-|**1**|**<a href="https://datalemur.com/questions/sql-page-with-no-likes">Page With No Like</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/1_Page_With_No_Likes">Page With No Like</a>**|Datalemur|
-|**2**|**<a href="https://datalemur.com/questions/matching-skills">Data Science Skills</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/2_Data_Science_Skills">Data Science Skills</a>**|Datalemur|
-|**3**|**<a href="https://datalemur.com/questions/sql-avg-review-ratings">Average Review Ratings</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/3_Average_Review_Ratings">Average Review Ratings</a>**|**Datalemur**|
-|**4**|**<a href="https://www.codingninjas.com/codestudio/problems/product-s-worth-over-invoices_2188792">Product's Worth Over Invoices</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/4_Product's_Worth_Over_Invoices">Product's Worth Over Invoices</a>**|**CodingNinjas**|
-|**5**|**<a href="https://www.codingninjas.com/codestudio/problems/students-data_2105460?">Students DB</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/5_Students_DB">Students DB</a>**|**CodingNinjas**|
-|**6**|**<a href="https://www.codingninjas.com/codestudio/problems/students-data_2105460">Duplicate Emails</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/6_Duplicate_Emails">Duplicate Emails</a>**|**CodingNinjas**|
+|**1**|**<a href="https://datalemur.com/questions/sql-page-with-no-likes">Page With No Like</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/1_Page_With_No_Likes">Link</a>**|Datalemur|
+|**2**|**<a href="https://datalemur.com/questions/matching-skills">Data Science Skills</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/2_Data_Science_Skills">Link</a>**|Datalemur|
+|**3**|**<a href="https://datalemur.com/questions/sql-avg-review-ratings">Average Review Ratings</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/3_Average_Review_Ratings">Link</a>**|**Datalemur**|
+|**4**|**<a href="https://www.codingninjas.com/codestudio/problems/product-s-worth-over-invoices_2188792">Product's Worth Over Invoices</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/4_Product's_Worth_Over_Invoices">Link</a>**|**CodingNinjas**|
+|**5**|**<a href="https://www.codingninjas.com/codestudio/problems/students-data_2105460?">Students DB</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/5_Students_DB">Link</a>**|**CodingNinjas**|
+|**6**|**<a href="https://www.codingninjas.com/codestudio/problems/students-data_2105460">Duplicate Emails</a>**|**<a href="https://github.com/Aswinth24/SQL-Problems/tree/main/Easy/6_Duplicate_Emails">Link</a>**|**CodingNinjas**|
 <!--|****|**<a href=""></a>**|**<a href=""></a>**|****|-->
 
 <h3> Medium </h3>
